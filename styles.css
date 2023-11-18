@@ -14,6 +14,13 @@ body {
   padding: 1rem;
 }
 
+.container--center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 3px;
+}
 /* ///////// card \\\\\\\\\ */
 
 .card {
