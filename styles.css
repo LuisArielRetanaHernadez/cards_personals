@@ -59,6 +59,10 @@ body {
 
 .card__content-y-down {
   transform: translateY(100%);
+  transition: all .4s;
+}
+.card:hover .card__content-y-down {
+  transform: translateY(0%);
 }
 
 .card__content--center {
