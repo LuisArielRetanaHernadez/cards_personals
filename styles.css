@@ -57,6 +57,10 @@ body {
   position: absolute;
 }
 
+.card__content-y-down {
+  transform: translateY(100%);
+}
+
 .card__content--center {
   display: flex;
   align-items: center;
@@ -66,3 +70,5 @@ body {
 /* ////// utils \\\\\\ */
 
 .bottom-0 { bottom: 0; }
+
+.overflow-hidden { overflow: hidden; }
