@@ -82,6 +82,11 @@ body {
   color: #7D7C7C;
 }
 
+.card__content-socials ul a {
+  color: #D80032;
+  background: inherit;
+}
+
 /* ////// utils \\\\\\ */
 
 .bottom-0 { bottom: 0; }
