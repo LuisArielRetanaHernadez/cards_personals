@@ -48,6 +48,7 @@ body {
 .card__imagen img {
   width: inherit;
   height: inherit;
+  object-fit: cover;
 }
 
 .card__content {
