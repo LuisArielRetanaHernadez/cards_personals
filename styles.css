@@ -91,6 +91,21 @@ body {
   background: inherit;
 }
 
+.card__content-socials {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card__content-socials ul {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
 /* ////// utils \\\\\\ */
 
 .bottom-0 { bottom: 0; }
