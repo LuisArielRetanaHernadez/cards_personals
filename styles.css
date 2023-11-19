@@ -82,6 +82,10 @@ body {
   color: #7D7C7C;
 }
 
+.card__content-socials {
+  padding: .8rem;
+}
+
 .card__content-socials ul a {
   color: #D80032;
   background: inherit;
